@@ -4,7 +4,7 @@
   
   eureka:
     instance:
-      instance-id: USER-SERVICE
+      instance-id: PROD-CONFIG
       prefer-ip-address: true
     client:
       fetch-registry: true
